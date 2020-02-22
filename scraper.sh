@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # This is a custom web scraper that will create an archive with a timestamp + MD5 hash. :)
-# SL
+# sincera
+
 echo "Enter target website, including it's subdomain..."
 echo "Example: www.target.com"
   read target

@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # This script is designed to scan the two domain controllers
 # and then the subnet using nmap and specified flags (if any)
+# sincera
 
 weekday=$(date +%u)
 
