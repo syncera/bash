@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#sincera
+# sincera
 
 if [ "#1" != "" ]
 then
